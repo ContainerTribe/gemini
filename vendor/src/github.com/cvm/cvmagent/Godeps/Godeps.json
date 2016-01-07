@@ -1,0 +1,73 @@
+{
+	"ImportPath": "github.com/cvm/cvmagent",
+	"GoVersion": "go1.5beta1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.8.7-49-gcdaedc6",
+			"Rev": "cdaedc68f2894175ac2b3221869685602c759e71"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-systemd/dbus",
+			"Comment": "v4-4-g4a47042",
+			"Rev": "4a47042cb1d653fe9cd53014854782a516c6252a"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-systemd/util",
+			"Comment": "v4-4-g4a47042",
+			"Rev": "4a47042cb1d653fe9cd53014854782a516c6252a"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/mount",
+			"Comment": "v1.4.1-8165-ge75da4b",
+			"Rev": "e75da4b6fffbcf9dab86cd581e962a19d3efa35a"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/symlink",
+			"Comment": "v1.4.1-8165-ge75da4b",
+			"Rev": "e75da4b6fffbcf9dab86cd581e962a19d3efa35a"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/system",
+			"Comment": "v1.4.1-8165-ge75da4b",
+			"Rev": "e75da4b6fffbcf9dab86cd581e962a19d3efa35a"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/term",
+			"Comment": "v1.4.1-8165-ge75da4b",
+			"Rev": "e75da4b6fffbcf9dab86cd581e962a19d3efa35a"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/units",
+			"Comment": "v1.4.1-8165-ge75da4b",
+			"Rev": "e75da4b6fffbcf9dab86cd581e962a19d3efa35a"
+		},
+		{
+			"ImportPath": "github.com/godbus/dbus",
+			"Comment": "v3-4-g8816257",
+			"Rev": "881625768bcd4ca46046c618551413fa51e07a0d"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "087949061006daa57b3a3be58d77092cf65f6cf7"
+		},
+		{
+			"ImportPath": "github.com/opencontainers/runc/libcontainer",
+			"Comment": "v0.0.4-158-ga296366",
+			"Rev": "a296366374a1a684184422490b8bc5d455a69b3c"
+		},
+		{
+			"ImportPath": "github.com/opencontainers/specs",
+			"Comment": "v0.1.1-55-gcf8dd12",
+			"Rev": "cf8dd120937acc3593708f99304c51cfd0f73240"
+		},
+		{
+			"ImportPath": "github.com/syndtr/gocapability/capability",
+			"Rev": "2c00daeb6c3b45114c80ac44119e7b8801fdd852"
+		},
+		{
+			"ImportPath": "github.com/vishvananda/netlink",
+			"Rev": "edcd99c0881a4de0fdb3818af6b24f4ee6948464"
+		}
+	]
+}
